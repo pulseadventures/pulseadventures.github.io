@@ -20,7 +20,7 @@ flex-wrap: wrap;
      position: relative;
      align-items: center;
      background-image: url(IMAGES/ELEPHANT3.jpg);
-    
+    background-size: cover;
     
     
     }
