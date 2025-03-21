@@ -21,7 +21,7 @@ flex-wrap: wrap;
      align-items: center;
      background-image: url(IMAGES/ELEPHANT3.jpg);
     background-size: cover;
-    
+    margin-bottom: -5rem;
     
     }
     #video{
